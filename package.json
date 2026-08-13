@@ -33,12 +33,12 @@
   "author": "Rishet Mehra <rishet11> (original), enhanced by community",
   "repository": {
     "type": "git",
-    "url": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode.git"
+    "url": "https://github.com/longxing-alt/ai-spend-zcode.git"
   },
   "bugs": {
-    "url": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode/issues"
+    "url": "https://github.com/longxing-alt/ai-spend-zcode/issues"
   },
-  "homepage": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode#readme",
+  "homepage": "https://github.com/longxing-alt/ai-spend-zcode#readme",
   "license": "MIT",
   "engines": {
     "node": ">=18"
