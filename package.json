@@ -1,0 +1,50 @@
+{
+  "name": "ai-spend-zcode",
+  "version": "2.0.3",
+  "description": "Universal local AI IDE spend tracker — ZCode enhanced (cache hit analytics for ZCode CLI)",
+  "main": "index.js",
+  "bin": {
+    "ai-spend": "index.js"
+  },
+  "files": [
+    "index.js",
+    "src/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openai",
+    "codex",
+    "claude",
+    "antigravity",
+    "cursor",
+    "tokens",
+    "usage",
+    "dashboard",
+    "analytics",
+    "cli",
+    "zcode",
+    "cache-hit",
+    "cache-hit-rate"
+  ],
+  "author": "Rishet Mehra <rishet11> (original), enhanced by community",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode.git"
+  },
+  "bugs": {
+    "url": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode/issues"
+  },
+  "homepage": "https://github.com/<YOUR_USERNAME>/ai-spend-zcode#readme",
+  "license": "MIT",
+  "engines": {
+    "node": ">=18"
+  },
+  "dependencies": {
+    "express": "^5.2.1",
+    "open": "^11.0.0"
+  }
+}
